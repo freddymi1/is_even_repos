@@ -1,0 +1,23 @@
+{
+  "name": "is_even",
+  "version": "1.0.0",
+  "description": "test package",
+  "main": "lib/index.js",
+  "types": "lib",
+  "scripts": {
+    "build": "tsc -p ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/freddymi1/is_even_repos.git"
+  },
+  "author": "Freddy Michel",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/freddymi1/is_even_repos/issues"
+  },
+  "homepage": "https://github.com/freddymi1/is_even_repos#readme",
+  "devDependencies": {
+    "typescript": "^4.9.5"
+  }
+}
